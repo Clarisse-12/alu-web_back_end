@@ -1,0 +1,6 @@
+Methods:
+	method GET: 1
+	method POST: 0
+	method PUT: 0
+	method PATCH: 0
+	method DELETE: 0
